@@ -1,6 +1,8 @@
 # Simulasi_Papan_Score_Basket
 Simulasi Program untuk perhitungan score pada pertandingan bola basket dengan menggunakan ATEMEGA 128 Proteus dan AVR.
 
+![alt text](https://github.com/dkusumandaru/Simulasi_Papan_Score_Basket/blob/master/Screenshoot.png?raw=true)
+
 Software :
 1. Software Proteus 			                 		
 2. Software Codevision AVR						
